@@ -5249,11 +5249,14 @@ Created using IcoMoon - icomoon.io
 .cc-twitter:hover i {
   color: #1da1f2; }
 
-.cc-google-plus:hover i {
-  color: #dd4b39; }
+.cc-github:hover i {
+  color: #000000 ; }
+
+  .cc-linkedin:hover i {
+    color: #0013FF ; }  
 
 .cc-instagram:hover i {
-  color: #405de6; }
+  color: #E900FC; }
 
 /* Credit Style */
 a.godbye {
